@@ -1,8 +1,8 @@
-# University of Manchester Molecular Vision Lab
+# University of Manchester Molecular Vision Lab (MMVL)
 
-Welcome to the GitHub hub for the University of Manchester Molecular Vision Lab.
+Welcome to the GitHub hub for the University of Manchester Molecular Vision Lab (MMVL)
 
-We study genetic disorders affecting the eye and explore the mechanisms of vision loss using a range of approaches, including: genomics, bioinformatics, and advanced imaging.
+We are a multidisciplinary research group based at the University of Manchester, working at the intersection of genomics, computational biology, and advanced ophthalmic imaging. Our aim is to develop new frameworks for preserving and restoring high-resolution central vision.
 
 ## Lab Members
 - [Panagiotis Sergouniotis](https://github.com/psergouniotis)
