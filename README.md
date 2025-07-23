@@ -1,6 +1,6 @@
-# University of Manchester Molecular Vision Lab (MMVL)
+# Manchester Molecular Vision Group (MVP)
 
-Welcome to the GitHub hub for the University of Manchester Molecular Vision Lab (MMVL)
+Welcome to the GitHub hub for the Manchester Molecular Vision Group (MVP)
 
 We are a multidisciplinary research group based at the University of Manchester, working at the intersection of genomics, computational biology, and advanced ophthalmic imaging. Our aim is to develop new frameworks for preserving and restoring high-resolution central vision.
 
