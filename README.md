@@ -7,4 +7,4 @@ We are a multidisciplinary research group based at the University of Manchester,
 ## Lab Members
 - [Panagiotis Sergouniotis](https://github.com/psergouniotis)
 - [David Green](https://github.com/davidjohngreen)
-- [Thomas Julian]()
+- [Thomas Julian](https://github.com/TomJulian)
